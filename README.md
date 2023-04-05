@@ -1,4 +1,4 @@
-# oibsip1
+# oibsip3 - Cars Price Prediction
 This is a machine learning project that predicts the price of used cars based on their features such as horsepower, enginesize, citympg and other relevant factors.
 
 ## Dataset
