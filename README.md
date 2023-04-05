@@ -9,11 +9,17 @@ We have used a regression model to predict the price of used cars. We have perfo
 
 ## Technologies Used
 Python
+
 Pandas
+
 Numpy
+
 Scikit-learn
+
 Matplotlib
+
 Seaborn
+
 os
 
 ## Results
@@ -23,6 +29,6 @@ We have evaluated the performance of the model using accuracy_score from sklearn
 To use the model, you can input the features of the car (horsepower, enginesize etc.) into the trained model, and it will predict the price of the car based on the input.
 
 ## Acknowledgements
-Kaggle for providing the dataset
 Scikit-learn for providing the machine learning algorithms
+
 Matplotlib and Seaborn for data visualization
