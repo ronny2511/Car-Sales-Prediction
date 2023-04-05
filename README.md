@@ -1,11 +1,11 @@
 # oibsip1
-This is a machine learning project that predicts the price of used cars based on their features such as mileage, age, make and model, and other relevant factors.
+This is a machine learning project that predicts the price of used cars based on their features such as horsepower, enginesize, citympg and other relevant factors.
 
 ## Dataset
-The dataset used in this project is sourced from Kaggle and contains information about used cars from various car brands. The dataset has over 10,000 observations with 8 features, including the target variable (price).
+The dataset used in this project is sourced from https://github.com/amankharwal/Website-data and contains information about cars from various car brands. The dataset has over 200 observations with 26 features, including the target variable (price).
 
 ## Methodology
-We have used a regression model to predict the price of used cars. We have performed exploratory data analysis (EDA) to gain insights into the dataset and preprocess the data for model training. We have used several machine learning algorithms to build the regression model, including linear regression, decision tree regression, and random forest regression. We have also performed hyperparameter tuning to optimize the performance of the model.
+We have used a regression model to predict the price of used cars. We have performed exploratory data analysis (EDA) to gain insights into the dataset and preprocess the data for model training. We have used Random Forest Regression machine learning algorithm to build the regression model.
 
 ## Technologies Used
 Python
